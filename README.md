@@ -38,11 +38,11 @@ Faktor yang paling berpengaruh terhadap GPA mahasiswa adalah Absence. Hal ini me
 Hasil klasifikasi membagi nilai siswa ke dalam tiga kategori: Rendah, Sedang, dan Tinggi. Kategorisasi ini didasarkan pada GPA, yang mencerminkan adanya rentang capaian akademik di antara siswa.
 Analisis data menekankan bahwa kehadiran merupakan faktor utama dalam menentukan performa akademik siswa. Distribusi siswa dalam kategori Rendah, Sedang, dan Tinggi menunjukkan adanya spektrum kemampuan akademik yang luas, serta kebutuhan akan intervensi khusus bagi siswa dengan GPA rendah.
 Rekomendasi: Untuk mengatasi masalah absensi yang berpengaruh terhadap GPA, strategi yang dapat diterapkan antara lain:  
-<li>1. Program Intervensi Dini: Mengidentifikasi siswa yang berisiko memiliki kehadiran buruk sejak awal tahun ajaran dan memberikan dukungan yang diperlukan.</li>
-<li>2. Keterlibatan Orang Tua: Memperkuat komunikasi dengan orang tua untuk memahami dan mengatasi hambatan kehadiran siswa.</li>
-<li>3. Program Insentif: Memberikan penghargaan atau pengakuan bagi siswa dengan kehadiran konsisten untuk meningkatkan motivasi.</li>
-<li>4. Dukungan Belajar Tambahan: Menyediakan bimbingan belajar atau les tambahan bagi siswa dengan GPA rendah agar dapat memperbaiki performa akademiknya.</li>
-<li>5. Tinjauan Kebijakan: Mengevaluasi kebijakan sekolah terkait absensi agar tidak secara tidak langsung memperburuk tingkat kehadiran siswa.</li>
+1. Program Intervensi Dini: Mengidentifikasi siswa yang berisiko memiliki kehadiran buruk sejak awal tahun ajaran dan memberikan dukungan yang diperlukan.
+2. Keterlibatan Orang Tua: Memperkuat komunikasi dengan orang tua untuk memahami dan mengatasi hambatan kehadiran siswa.
+3. Program Insentif: Memberikan penghargaan atau pengakuan bagi siswa dengan kehadiran konsisten untuk meningkatkan motivasi.
+4. Dukungan Belajar Tambahan: Menyediakan bimbingan belajar atau les tambahan bagi siswa dengan GPA rendah agar dapat memperbaiki performa akademiknya.
+5. Tinjauan Kebijakan: Mengevaluasi kebijakan sekolah terkait absensi agar tidak secara tidak langsung memperburuk tingkat kehadiran siswa.
 
 Rekomendasi ini bertujuan untuk secara langsung mengatasi permasalahan absensi yang memengaruhi GPA serta memberikan dukungan tepat sasaran bagi siswa yang membutuhkan, sehingga dapat meningkatkan performa akademik secara keseluruhan dan memperkecil kesenjangan antara kategori Rendah, Sedang, dan Tinggi.
 
@@ -52,10 +52,10 @@ Dalam proyek ini, kecerdasan buatan (AI) digunakan untuk mendukung proses analis
 1. Automatic Summarization, AI secara otomatis merangkum hasil analisis teknis (feature importance, klasifikasi nilai siswa, distribusi kategori) menjadi penjelasan naratif yang mudah dipahami.
 2. Insight Generation, AI membantu mengidentifikasi faktor utama yang memengaruhi GPA siswa yaitu Absences (Kehadiran), serta memberikan pemahaman logis mengapa kehadiran memiliki pengaruh signifikan terhadap performa akademik.
 3. Structured Reporting, Output AI diformat menjadi empat bagian utama:
-    <li>a. Insight, Menunjukkan temuan penting (absensi → GPA).</li>
-    <li>b. Findings, Menjelaskan distribusi GPA ke dalam kategori Low, Medium, High.</li>
-    <li>c. Conclusion, Menyimpulkan bahwa absensi berdampak negatif pada capaian akademik.</li>
-    <li>d. Recommendation, Memberikan rekomendasi konkret dan actionable, seperti perbaikan kebijakan absensi, program intervensi dini, peningkatan keterlibatan orang tua, serta menciptakan lingkungan sekolah yang lebih menarik.</li>
+    <li>Insight, Menunjukkan temuan penting (absensi → GPA).</li>
+    <li>Findings, Menjelaskan distribusi GPA ke dalam kategori Low, Medium, High.</li>
+    <li>Conclusion, Menyimpulkan bahwa absensi berdampak negatif pada capaian akademik.</li>
+    <li>Recommendation, Memberikan rekomendasi konkret dan actionable, seperti perbaikan kebijakan absensi, program intervensi dini, peningkatan keterlibatan orang tua, serta menciptakan lingkungan sekolah yang lebih menarik.</li>
 4. Decision Support
 Dengan menggunakan AI, hasil analisis tidak hanya berupa angka/statistik, tetapi diterjemahkan menjadi rekomendasi kebijakan yang praktis dan berdampak nyata, sehingga dapat langsung dijadikan acuan oleh sekolah, orang tua, maupun pemerintah.
 
