@@ -46,6 +46,19 @@ Rekomendasi: Untuk mengatasi masalah absensi yang berpengaruh terhadap GPA, stra
 
 Rekomendasi ini bertujuan untuk secara langsung mengatasi permasalahan absensi yang memengaruhi GPA serta memberikan dukungan tepat sasaran bagi siswa yang membutuhkan, sehingga dapat meningkatkan performa akademik secara keseluruhan dan memperkecil kesenjangan antara kategori Rendah, Sedang, dan Tinggi.
 
+<h2>AI support explanation</h2>
+
+Dalam proyek ini, kecerdasan buatan (AI) digunakan untuk mendukung proses analisis data melalui fitur AI Summarization menggunakan model IBM Granite. Peran AI dalam analisis ini meliputi:
+1. Automatic Summarization, AI secara otomatis merangkum hasil analisis teknis (feature importance, klasifikasi nilai siswa, distribusi kategori) menjadi penjelasan naratif yang mudah dipahami.
+2. Insight Generation, AI membantu mengidentifikasi faktor utama yang memengaruhi GPA siswa yaitu Absences (Kehadiran), serta memberikan pemahaman logis mengapa kehadiran memiliki pengaruh signifikan terhadap performa akademik.
+3. Structured Reporting, Output AI diformat menjadi empat bagian utama:
+    a. Insight, Menunjukkan temuan penting (absensi → GPA).
+    b. Findings, Menjelaskan distribusi GPA ke dalam kategori Low, Medium, High.
+    c. Conclusion, Menyimpulkan bahwa absensi berdampak negatif pada capaian akademik.
+    d. Recommendation, Memberikan rekomendasi konkret dan actionable, seperti perbaikan kebijakan absensi, program intervensi dini, peningkatan keterlibatan orang tua, serta menciptakan lingkungan sekolah yang lebih menarik.
+4. Decision Support
+Dengan menggunakan AI, hasil analisis tidak hanya berupa angka/statistik, tetapi diterjemahkan menjadi rekomendasi kebijakan yang praktis dan berdampak nyata, sehingga dapat langsung dijadikan acuan oleh sekolah, orang tua, maupun pemerintah.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raniazamrizq) 
 
