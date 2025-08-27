@@ -8,6 +8,16 @@ https://www.kaggle.com/datasets/miadul/student-performance-dataset
 🔭 I’m currently working on Analisis Faktor Pengaruh Tinggi dan Rendahnya GPA Mahasiswa 
 https://colab.research.google.com/drive/1t97lp2QecQQZ190NdFD_eLMvYvOUyxYq?usp=sharing
 
+# How to Open the Dashboard?
+1. Download folder Capstone Project_Rania Zamrizq.zip
+2. Extract di tempat yang kamu inginkan 
+3. Pilih 'Open Folder' di VSC
+4. pilih folder yang sudah di download tadi
+5. Buka app.py
+6. Jalankan di terminal/cmd atau klik path tempat 'app.py' berada. Kemudian, masukkan 'cmd'
+7. Ketik 'streamlit run app.py', lalu enter.
+
+
 <h2>Latar Belakang</h2>
 <p>Pendidikan merupakan salah satu faktor utama dalam membentuk kualitas sumber daya manusia. Namun, capaian akademik siswa sering dipengaruhi oleh berbagai faktor eksternal maupun internal, termasuk latar belakang keluarga, dukungan orang tua, serta tingkat kehadiran di sekolah. Tantangan ini penting untuk diteliti agar sekolah, orang tua, dan pemerintah dapat mengambil langkah strategis dalam meningkatkan mutu pendidikan.</p>
 
