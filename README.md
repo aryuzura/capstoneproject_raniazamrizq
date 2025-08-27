@@ -2,10 +2,11 @@
 
 
 <h3>Hi 👋, I'm Rania Zamrizq</h3>
-Saya baru saja membuat capstone project untuk memenuhi tugas dari Data Classification and Summarization Using IBM Granite menggunakan dataset dari Kaggle 
+Saya baru saja membuat capstone project untuk memenuhi tugas dari Data Classification and Summarization Using IBM Granite menggunakan dataset dari Kaggle
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)]((https://www.kaggle.com/datasets/miadul/student-performance-dataset)) 
 
-🔭 I’m currently working on Analisis Faktor Pengaruh Tinggi dan Rendahnya GPA Mahasiswa https://colab.research.google.com/drive/1t97lp2QecQQZ190NdFD_eLMvYvOUyxYq?usp=sharing
+🔭 I’m currently working on Analisis Faktor Pengaruh Tinggi dan Rendahnya GPA Mahasiswa [![Google Colab](https://img.shields.io/badge/Google-Colab-%230077B5.svg?logo=googlecolab&logoColor=white)]((https://colab.research.google.com/drive/1t97lp2QecQQZ190NdFD_eLMvYvOUyxYq?usp=sharing))
 
 <h2>Latar Belakang</h2>
 <p>Pendidikan merupakan salah satu faktor utama dalam membentuk kualitas sumber daya manusia. Namun, capaian akademik siswa sering dipengaruhi oleh berbagai faktor eksternal maupun internal, termasuk latar belakang keluarga, dukungan orang tua, serta tingkat kehadiran di sekolah. Tantangan ini penting untuk diteliti agar sekolah, orang tua, dan pemerintah dapat mengambil langkah strategis dalam meningkatkan mutu pendidikan.</p>
