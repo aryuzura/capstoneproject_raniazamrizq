@@ -3,8 +3,7 @@
 
 <h3>Hi 👋, I'm Rania Zamrizq</h3>
 Saya baru saja membuat capstone project untuk memenuhi tugas dari Data Classification and Summarization Using IBM Granite menggunakan dataset dari Kaggle
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)]((https://www.kaggle.com/datasets/miadul/student-performance-dataset)) 
+https://www.kaggle.com/datasets/miadul/student-performance-dataset
 
 🔭 I’m currently working on Analisis Faktor Pengaruh Tinggi dan Rendahnya GPA Mahasiswa 
 https://colab.research.google.com/drive/1t97lp2QecQQZ190NdFD_eLMvYvOUyxYq?usp=sharing
