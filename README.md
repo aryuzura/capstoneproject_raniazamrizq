@@ -30,14 +30,14 @@ Pendekatan yang digunakan dalam proyek ini meliputi:
 3. Klasifikasi: Menggunakan model machine learning untuk mengklasifikasikan siswa ke dalam kategori GPA (Low, Medium, High).
 4. Feature Importance: Menentukan faktor paling berpengaruh terhadap GPA tanpa menggunakan variabel identitas (StudentID).
 5. AI Summarization & Recommendation: Memanfaatkan model AI (IBM Granite) untuk merangkum insight, menyusun kesimpulan, serta memberikan rekomendasi yang konkret, actionable, dan berdampak nyata.
-6. Dashboard Interaktif: Mengembangkan dashboard dengan Streamlit agar hasil analisis dapat diakses secara mudah, interaktif, dan real-time.</p>
+6. Dashboard Interaktif: Mengembangkan dashboard dengan Streamlit agar hasil analisis dapat diakses secara mudah, interaktif, dan real-time.
 
 <h2>Insight & Finding</h2>
 
 Faktor yang paling berpengaruh terhadap GPA mahasiswa adalah Absence. Hal ini menegaskan bahwa Absence yang konsisten sangat penting bagi tinggi rendahnya GPA mahasiswa.
 Hasil klasifikasi membagi nilai siswa ke dalam tiga kategori: Rendah, Sedang, dan Tinggi. Kategorisasi ini didasarkan pada GPA, yang mencerminkan adanya rentang capaian akademik di antara siswa.
 Analisis data menekankan bahwa kehadiran merupakan faktor utama dalam menentukan performa akademik siswa. Distribusi siswa dalam kategori Rendah, Sedang, dan Tinggi menunjukkan adanya spektrum kemampuan akademik yang luas, serta kebutuhan akan intervensi khusus bagi siswa dengan GPA rendah.
-Rekomendasi: Untuk mengatasi masalah absensi yang berpengaruh terhadap GPA, strategi yang dapat diterapkan antara lain: \n"   
+Rekomendasi: Untuk mengatasi masalah absensi yang berpengaruh terhadap GPA, strategi yang dapat diterapkan antara lain:  
 1. Program Intervensi Dini: Mengidentifikasi siswa yang berisiko memiliki kehadiran buruk sejak awal tahun ajaran dan memberikan dukungan yang diperlukan.
 2. Keterlibatan Orang Tua: Memperkuat komunikasi dengan orang tua untuk memahami dan mengatasi hambatan kehadiran siswa.
 3. Program Insentif: Memberikan penghargaan atau pengakuan bagi siswa dengan kehadiran konsisten untuk meningkatkan motivasi.
